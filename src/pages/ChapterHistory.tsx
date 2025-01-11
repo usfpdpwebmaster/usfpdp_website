@@ -19,7 +19,6 @@ const ChapterHistory = () => {
           <p className="leading-relaxed">
             In 2008, 10 men who were already <span className="text-red-500">leaders</span> in their own rights sought to bring a greater
             presence to the <span className="text-red-500">Asian voice</span> at the University of South Florida at the Tampa Bay Area. 
-            7Deep something something something
           </p>
           <p className="leading-relaxed">
             On <span className="text-red-500">November 9th</span>, <span className="text-red-500">2008</span>, these 10 men <span className="text-red-500">emerged</span> as <span className="text-red-500">Pi Delta Psi Fraternity, Inc.</span> at the 
