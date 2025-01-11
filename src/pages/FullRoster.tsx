@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import Modal from 'react-modal';
 import './FullRoster.css';
 import { X, Users, Image as ImageIcon } from 'lucide-react';
 Modal.setAppElement('#root');
