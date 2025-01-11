@@ -9,7 +9,7 @@ const Contact = () => {
           Contact Us
         </h1>
         {/* Line underneath title */}
-        <div className="w-64 h-2 bg-red-500 mx-auto mb-10"></div>
+        <div className="w-full h-1 bg-red-500 mx-auto mb-8"></div>
 
         {/* Content */}
         <div className="max-w-4xl mx-auto text-xl lg:text-2xl text-gray-700 space-y-8 bg-white p-12 rounded-2xl shadow-2xl font-roboto">
