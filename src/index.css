@@ -1,0 +1,110 @@
+@font-face {
+  font-family: 'Horizon Bold';
+  src: url('/fonts/horizon_bold.otf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MaximumVoltage';
+  src: url('/fonts/Maximum Voltage.otf') format('opentype');
+}
+@font-face {
+  font-family: 'Bemirs';
+  src: url('/fonts/Bemirs.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Rijusans';
+  src: url('/fonts/Rijusans.ttf') format('truetype');
+}
+.font-Rijusans {
+  font-family: 'Rijusans', sans-serif;
+}
+
+@font-face {
+  font-family: 'RijusansItalic';
+  src: url('/fonts/RijusansItalic.ttf') format('truetype');
+}
+.font-RijusansItalic {
+  font-family: 'RijusansItalic', sans-serif;
+}
+
+@font-face {
+  font-family: 'Sangyo';
+  src: url('/fonts/Sangyo.ttf') format('truetype');
+}
+.font-Sangyo {
+  font-family: 'Sangyo', sans-serif;
+}
+
+@font-face {
+  font-family: 'SangyoItalic';
+  src: url('/fonts/SangyoItalic.ttf') format('truetype');
+}
+.font-SangyoItalic {
+  font-family: 'SangyoItalic', sans-serif;
+}
+
+@font-face {
+  font-family: 'TheGlobe';
+  src: url('/fonts/TheGlobe.ttf') format('truetype');
+}
+.font-roboto {
+  font-family: 'Roboto', sans-serif;
+}
+/* Apply Bemirs font */
+.font-bemirs {
+  font-family: 'Bemirs', sans-serif;
+}
+/* apply the globe font */
+.font-globe {
+  font-family: 'TheGlobe', sans-serif;
+}
+.font-maximum-voltage {
+  font-family: 'MaximumVoltage', sans-serif;
+}
+
+.layout-text, .home-page-text {
+  font-family: 'Horizon Bold', sans-serif;
+  font-weight: bold;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 0 0% 3.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 3.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 3.9%;
+    --primary: 0 0% 9%;
+    --primary-foreground: 0 0% 98%;
+    --secondary: 0 0% 96.1%;
+    --secondary-foreground: 0 0% 9%;
+    --muted: 0 0% 96.1%;
+    --muted-foreground: 0 0% 45.1%;
+    --accent: 0 0% 96.1%;
+    --accent-foreground: 0 0% 9%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 0 0% 89.8%;
+    --input: 0 0% 89.8%;
+    --ring: 0 0% 3.9%;
+    --radius: 0.5rem;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Horizon Bold', sans-serif;
+  }
+}
