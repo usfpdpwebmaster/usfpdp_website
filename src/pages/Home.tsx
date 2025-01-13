@@ -168,7 +168,7 @@ const Home = () => {
       {/* Contact Section */}
       <div className="bg-white py-20">
         <div className="container mx-auto px-4">
-          <h2 className="text-4xl font-bold text-center mb-16 scroll-reveal">Join The Brotherhood</h2>
+          <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-center mb-16 scroll-reveal">Join The Brotherhood</h2>
           <div className="max-w-2xl mx-auto text-center space-y-8">
             <div className="scroll-reveal">
               <a 
