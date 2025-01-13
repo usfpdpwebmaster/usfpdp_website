@@ -32,7 +32,7 @@ const ActiveHouse = () => {
       { name: 'Harrison Hong', image: '/hoosh_cabinet.JPG' },
       { name: 'Shawn Nguyen', image: '/shawn_cabinet.JPG' }
     ]},
-    { position: 'Social Chair', members: [{ name: 'Moe', image: '/shadow.avif' }] },
+    { position: 'Social Chair', members: [{ name: 'Moe', image: '/Asset_3.png' }] },
     { position: 'Philanthropy Chair', members: [{ name: 'Brian Jiang', image: '/Asset_3.png' }] },
     { position: 'Fraternity Artist', members: [
       { name: 'Andrew Chau', image: '/chau_cabinet.JPG' },
