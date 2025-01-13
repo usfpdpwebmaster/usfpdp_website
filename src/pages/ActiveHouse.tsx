@@ -45,7 +45,7 @@ const ActiveHouse = () => {
       { name: 'Brandon Nguyen', image: '/kutie.JPG' }
     ]},
     { position: 'Risk Management', members: [{ name: 'Dillon Berger', image: '/dillers_cabinet.JPG' }] },
-    { position: 'Alumni Advisor', members: [{ name: 'Edison???', image: '/wolf.jpg' }] }
+    { position: 'Alumni Advisor', members: [{ name: 'Edison Lin', image: '/Asset_3.png' }] }
   ];
 
    return (
