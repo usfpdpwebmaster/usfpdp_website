@@ -31,7 +31,7 @@ const ChapterHistory = () => {
           <p className="leading-relaxed">
             Since its inception, <span className="text-red-500">Pi Delta Psi</span> at the University of South Florida aims to be steadfast
             in adhering to its morals and educating its members and the student body to help <span className="text-red-500">maximize</span>
-            the potential of a South Florida Bull. Through a legacy of integrity and achievement, Pi Delta Psi aims to leave a lasting mark 
+             the potential of a South Florida Bull. Through a legacy of integrity and achievement, Pi Delta Psi aims to leave a lasting mark 
             on the university and beyond.
           </p>
         </div>
