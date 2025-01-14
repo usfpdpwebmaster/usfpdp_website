@@ -22,15 +22,15 @@ const NationalHistory = () => {
             (Chinese, Japanese, Korean, Filipino and Vietnamese). Already established leaders within 
             their own university sponsored cultural organizations, these men assembled to devise a 
             structure that would create an <span className="text-red-500">understanding</span> between the various Asian cultures, build
-            <span className="text-red-500">relationships</span> extending beyond the academic years and most importantly, finding and 
+            <span className="text-red-500"> relationships</span> extending beyond the academic years and most importantly, finding and 
             building an individual's <span className="text-red-500">skill sets</span>. These eleven men envisioned an infrastructure that 
             would continuously motivate and challenge individuals. This infrastructure of a fraternal
             society, which has been around since 1776 would become the building blocks of their 
             endeavor.
           </p>
           <p className="leading-relaxed">
-            <span className="text-red-500">Pi Delta Psi</span> was <span className="text-red-500">founded</span> on February 20, 1994 in Binghamton University, State University of
-            New York. The eleven men were responsible for architecting the guiding principles, which 
+            <span className="text-red-500">Pi Delta Psi</span> was <span className="text-red-500">founded</span> on February 20, 1994 in Binghamton University. 
+            The eleven men were responsible for architecting the guiding principles, which 
             have now developed into one of the nation's largest <span className="text-red-500">Asian Cultural Interest Fraternities</span>.
           </p>
           <p className="leading-relaxed">
