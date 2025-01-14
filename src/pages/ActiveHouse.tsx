@@ -85,7 +85,7 @@ const ActiveHouse = () => {
           <div className="space-y-16">
             {cabinet.map((position) => (
               <div key={position.position} className="bg-gray-800 rounded-xl p-8 shadow-lg hover:shadow-2xl transition-transform transform hover:scale-105">
-                <h3 className="text-3xl sm:text-2xl md:text-2xl lg:text-6xl font-bold mb-6 text-center">{position.position}</h3>
+                <h3 className="text-2xl font-bold mb-6 text-center">{position.position}</h3>
                 <div
                   className={`grid grid-cols-1 gap-8 ${
                     position.members.length === 2
