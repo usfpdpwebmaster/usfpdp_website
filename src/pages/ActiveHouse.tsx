@@ -58,7 +58,7 @@ const ActiveHouse = () => {
 
         {/* Executive Board Section */}
         <section className="mb-24">
-          <h2 className="text-5xl font-bold text-center mb-12 tracking-wide text-gray-100">Executive Board</h2>
+          <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-center mb-12 tracking-wide text-gray-100">Executive Board</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
             {eboard.map((position, index) => (
               <div
@@ -85,7 +85,7 @@ const ActiveHouse = () => {
           <div className="space-y-16">
             {cabinet.map((position) => (
               <div key={position.position} className="bg-gray-800 rounded-xl p-8 shadow-lg hover:shadow-2xl transition-transform transform hover:scale-105">
-                <h3 className="text-3xl font-bold mb-6 text-center">{position.position}</h3>
+                <h3 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold mb-6 text-center">{position.position}</h3>
                 <div
                   className={`grid grid-cols-1 gap-8 ${
                     position.members.length === 2
