@@ -83,7 +83,7 @@ const Home = () => {
         <div className="absolute inset-0 bg-black bg-opacity-60"></div>
         <div className="container mx-auto px-4 z-10">
           <div className="max-w-4xl mx-auto text-center">
-            <h1 className="font-globe text-6xl text-white font-bold mb-6 animate-slideInLeft">
+            <h1 className="font-globe text-8xl text-white font-bold mb-6 animate-slideInLeft">
               Pi Delta Psi
             </h1>
             <p className="font-globe text-xl md:text-4xl text-red-500 font-bold mb-8 animate-slideInRight">
