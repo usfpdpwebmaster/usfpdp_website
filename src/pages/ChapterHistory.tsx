@@ -26,14 +26,14 @@ const ChapterHistory = () => {
             University of South Florida. Guided by the 4 pillars of <span className="text-red-500">Academic Achievement</span>, <span className="text-red-500">Cultural
             Awareness</span>, <span className="text-red-500">Righteousness</span>, and <span className="text-red-500">Friendship/Loyalty</span>, this eternal <span className="text-red-500">brotherhood</span> continues to <span className="text-red-500">empower </span>
             its members to break stereotypes, fight discrimination, celebrate diversity, and set
-            new standards for academic excellence.
+            new standards for academic excellence. They sought to create a space where individuals could not only foster leadership but also support one 
+            another in a collective mission to promote unity, diversity, and academic excellence within the university community.
           </p>
           <p className="leading-relaxed">
             Since its inception, <span className="text-red-500">Pi Delta Psi</span> at the University of South Florida aims to be steadfast
             in adhering to its morals and educating its members and the student body to help <span className="text-red-500">maximize </span>
              the potential of a South Florida Bull. Through a legacy of integrity and achievement, <span className="text-red-500">Pi Delta Psi </span>
-            aims to leave a lasting mark 
-            on the university and beyond.
+            aims to leave a lasting mark on the university and beyond.
           </p>
         </div>
       </div>
