@@ -5,7 +5,7 @@ const MissionStatement = () => {
     <div className="min-h-screen bg-gradient-to-r from-gray-100 to-gray-200 flex items-center justify-center">
       <div className="container mx-auto px-4 py-20">
         {/* Title */}
-        <h1 className="text-5xl font-extrabold text-center mb-4 text-gray-800">
+        <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold text-center mb-4 text-gray-800">
           Mission Statement
         </h1>
         {/* Line underneath title */}
