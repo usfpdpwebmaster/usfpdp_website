@@ -327,7 +327,7 @@ const roster = {
     'Lambda': 'Fall 2013',
     'Mu': 'Spring 2015',
     'Nu': 'Fall 2015',
-    'Omicron': 'Spring 2016',
+    'Omicron': 'Fall 2016',
     'Rho': 'Fall 2017',
     'Sigma': 'Spring 2018',
     'Tau': 'Fall 2018',
