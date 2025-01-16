@@ -75,7 +75,7 @@ const Home = () => {
     <div className="overflow-x-hidden">
       {/* Hero Section with Parallax Effect */}
       <div 
-        className="min-h-screen bg-cover bg-center relative flex items-center"
+        className="min-h-screen bg-cover bg-fixed bg-center relative flex items-center"
         style={{
           backgroundImage: 'url("/Asset_3.png")'
         }}
@@ -83,7 +83,7 @@ const Home = () => {
         <div className="absolute inset-0 bg-black bg-opacity-60"></div>
         <div className="container mx-auto px-4 z-10">
           <div className="max-w-4xl mx-auto text-center">
-            <h1 className="font-globe text-8xl text-white font-bold mb-6 animate-slideInLeft">
+            <h1 className="font-globe text-6xl md:text-8xl text-white font-bold mb-6 animate-slideInLeft">
               Pi Delta Psi
             </h1>
             <p className="font-globe text-xl md:text-4xl text-red-500 font-bold mb-8 animate-slideInRight">
@@ -168,7 +168,9 @@ const Home = () => {
       {/* Contact Section */}
       <div className="bg-white py-20">
         <div className="container mx-auto px-4">
-          <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-center mb-16 scroll-reveal">Join The Brotherhood</h2>
+          <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-center mb-16 scroll-reveal">
+            Join The Brotherhood
+          </h2>
           <div className="max-w-2xl mx-auto text-center space-y-8">
             <div className="scroll-reveal">
               <a 
