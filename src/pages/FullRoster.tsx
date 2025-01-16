@@ -274,7 +274,7 @@ const roster = {
     ],
   },
     'Alpha Epsilon': {
-      classPicture: '/path/to/alpha-epsilon-class-picture.jpg',
+      classPicture: '/AEs.JPG',
       members: [
         { number: 141, name: 'Brandon Nguyen', brotherName: 'Kavalry' },
         { number: 142, name: 'Shawn Nguyen', brotherName: 'SHADOWBORN' },
