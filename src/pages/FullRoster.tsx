@@ -237,7 +237,7 @@ const roster = {
     ],
   },
   'Alpha Alpha': {
-    classPicture: '/AAs.JPG',
+    classPicture: '/AAs_smile.JPG',
     members: [
       { number: 124, name: 'Benjamin Nguyen', brotherName: 'Kartier' },
       { number: 125, name: 'Bill Tran', brotherName: 'Kanon' },
