@@ -32,13 +32,13 @@ const roster = {
     ],
   },
   Gamma: {
-    classPicture: '/path/to/gamma-class-picture.jpg',
+    classPicture: '/gamma.jpg',
     members: [
     { number: 17, name: 'Lam Nguyen', brotherName: 'E.L.I.T.E.' },
    ],
   },
   Delta: {
-    classPicture: '/path/to/delta-class-picture.jpg',
+    classPicture: '/deltas.jpg',
     members: [
       { number: 18, name: 'Nino Fajardo', brotherName: 'Kode Red' },
       { number: 19, name: 'Jeffery Lim', brotherName: 'Ironclad' },
