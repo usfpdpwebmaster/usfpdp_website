@@ -38,7 +38,7 @@ const roster = {
    ],
   },
   Delta: {
-    classPicture: '/deltas.jpg',
+    classPicture: '/deltas.png',
     members: [
       { number: 18, name: 'Nino Fajardo', brotherName: 'Kode Red' },
       { number: 19, name: 'Jeffery Lim', brotherName: 'Ironclad' },
