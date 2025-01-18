@@ -156,7 +156,7 @@ const roster = {
     ],
   },
   Rho: {
-    classPicture: '/rhos.JPG',
+    classPicture: '/rhos_desired.jpg',
     members: [
       { number: 81, name: 'Calvin Nguyen', brotherName: 'HYPERBEAST' },
       { number: 82, name: 'Joshua Abrahan', brotherName: 'HORUS' },
