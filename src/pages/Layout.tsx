@@ -41,7 +41,10 @@ export default function Layout() {
     },
     {
       title: 'Recruitment',
-      path: '/recruitment'
+      subItems: [
+        { title: 'For Students', path: '/recruitment/for-students' },
+        { title: 'For Parents', path: '/recruitment/for-parents' }
+      ]
     },
     {
       title: 'Contact Us',
