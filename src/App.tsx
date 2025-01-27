@@ -8,6 +8,7 @@ import NationalHistory from './pages/NationalHistory'; // Import NationalHistory
 import ChapterHistory from './pages/ChapterHistory'; // Import ChapterHistory
 import Recruitment from './pages/Recruitment';
 import Contact from './pages/Contact';
+import Parents from './pages/Parents'; // Import Parents
 
 function App() {
   return (
@@ -20,7 +21,8 @@ function App() {
           <Route path="about/national-history" element={<NationalHistory />} /> {/* Add NationalHistory route */}
           <Route path="about/mission-statement" element={<MissionStatement />} /> {/* Add MissionStatement route */}
           <Route path="about/chapter-history" element={<ChapterHistory />} /> {/* Add ChapterHistory route */}
-          <Route path="recruitment" element={<Recruitment />} />
+          <Route path="recruitment/for-students" element={<Recruitment />} />
+          <Route path="recruitment/for-parents" element={<Parents />} />
           <Route path="contact" element={<Contact />} />
         </Route>
       </Routes>
