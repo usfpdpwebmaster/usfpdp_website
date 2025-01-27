@@ -41,4 +41,4 @@ const Parents = () => {
   );
 };
 
-export default MissionStatement;
+export default Parents;
