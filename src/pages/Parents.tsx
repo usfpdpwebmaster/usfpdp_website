@@ -15,24 +15,41 @@ const Parents = () => {
         <div className="max-w-3xl mx-auto text-lg text-gray-700 space-y-8 bg-white p-8 rounded-lg shadow-lg font-roboto">
           {/* Section 1 */}
           <div>
-            <h2 className="text-2xl font-bold mb-2 text-center">WHAT IS RECRUITMENT?</h2>
+            <h2 className="text-2xl font-bold mb-2 text-center">Dear Parents</h2>
             <p className="leading-relaxed">
-              Recruitment, also known as <span className="text-red-500">Rush</span>, is the process through which potential new members learn about <span className="text-red-500">Pi Delta Psi</span> and its values, meet current members, and decide if they want to <span className="text-red-500">join</span> the fraternity. It is an opportunity to understand what the fraternity <span className="text-red-500">stands</span> for and how it can contribute to <span className="text-red-500">personal</span> and <span className="text-red-500">professional</span> growth.
+              We understand that Greek Life can be a controversial and somewhat clandestine community.
+            </p>
+            <p className="leading-relaxed">
+             Coupled with common misconceptions and the academic vigor of higher education, we can expect parents to be concerned, and we welcome communication with parents to address those concern.
+            </p>
+            <p className="leading-relaxed">
+             At Pi Delta Psi, we strive to establish a transparent organization that will allow students and their parents to make the right choice.
+            </p>
+            <p className="leading-relaxed">
+              You are welcome to contact us via usfpdpsi.president@gmail.com or on <a href="https://www.instagram.com/usfpdpsi/" className="text-red-500 hover:underline">Instagram</a>. 
+              Additionally, the information located below will provide our position on common issues.
             </p>
           </div>
           <div className="w-full h-0.5 bg-gray-300 my-4"></div>
 
           {/* Section 2 */}
           <div>
-            <h2 className="text-2xl font-bold mb-2 text-center">HOW DO I JOIN?</h2>
+            <h2 className="text-2xl font-bold mb-2 text-center">The Intake Process</h2>
             <p className="leading-relaxed">
-              <span className="text-red-500">Rush</span> is a series of free events during the first 2 weeks of school. During <span className="text-red-500">Rush</span>, prospective members 
-              are given <span className="text-red-500">opportunities</span> to <span className="text-red-500">meet</span> and <span className="text-red-500">interact</span> with Brothers of <span className="text-red-500">Pi Delta Psi</span>. These events allow
-              prospective members to <span className="text-red-500">learn</span> about the Fraternity and provides deeper <span className="text-red-500">understanding</span> of membership
-              in the Greek community. To be up-to-date with our chapter, follow us on <a href="https://www.instagram.com/usfpdpsi/" className="text-red-500 hover:underline">Instagram</a>. 
-              We are looking for <span className="text-red-500">leaders</span> who are willing to look past themselves
-              and <span className="text-red-500">serve</span> their community. We are looking for those who can follow the <span className="text-red-500">standards</span> set forth 
-              within our four pillars: <span className="text-red-500">Academic Achievement</span>, <span className="text-red-500">Cultural Awareness</span>, <span className="text-red-500">Righteousness</span>, and <span className="text-red-500">Friendship/Loyalty</span>.
+             Hazing is a charged and stigmatized word within our community. We are strongly against hazing. It describes a practice that puts our new members in unnecessary mental and physical harm.
+             Regardless of the many definitions and standards of what is considered “hazing”, the National Board takes any hazing allegations very seriously, and will respond appropriately.
+            </p>
+            <p className="leading-relaxed font-bold">
+              We are strongly against hazing. It describes a practice that puts our new members in unnecessary mental and physical harm.
+            </p>
+            <p className="leading-relaxed">
+             Pi Delta Psi‘s intake process is rooted in a curriculum that familiarizes our members with Asian American history, contemporary social issues, and role models. 
+              It aims to help our members establish a coherent identity and develop relevant leadership skills. Our process encourages a mentor-mentee relationship between 
+              new members and the brothers in developing an understanding of the personal Asian American identity.
+            </p>
+            <p className="leading-relaxed">
+            While we do keep our ritual practices a secret, our general in-take process is outlined and available upon request. We also maintain a risk management document 
+              that outlines restricted practices and subsequent consequences. Both documents may be obtained through our National Board.
             </p>
           </div>
           <div className="w-full h-0.5 bg-gray-300 my-4"></div>
