@@ -1,4 +1,4 @@
-import React from 'react';
+1import React from 'react';
 
 const Parents = () => {
   return (
