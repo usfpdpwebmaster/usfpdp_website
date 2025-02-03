@@ -22,7 +22,7 @@ const Parents = () => {
             <p className="leading-relaxed mb-4">
              Coupled with common misconceptions and the academic vigor of higher education, we can expect parents to be concerned, and we welcome communication with parents to address those concern.
             </p>
-            <p className="leading-relaxed ,b-4">
+            <p className="leading-relaxed mb-4">
              At Pi Delta Psi, we strive to establish a transparent organization that will allow students and their parents to make the right choice.
             </p>
             <p className="leading-relaxed">
