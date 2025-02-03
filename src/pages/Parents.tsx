@@ -6,7 +6,7 @@ const Parents = () => {
       <div className="container mx-auto px-4 py-20">
         {/* Title */}
         <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold text-center mb-4 text-gray-800">
-          Recruitment
+          For Parents
         </h1>
         {/* Line underneath title */}
         <div className="w-full h-1 bg-red-500 mx-auto mb-8"></div>
@@ -15,7 +15,7 @@ const Parents = () => {
         <div className="max-w-3xl mx-auto text-lg text-gray-700 space-y-8 bg-white p-8 rounded-lg shadow-lg font-roboto">
           {/* Section 1 */}
           <div>
-            <h2 className="text-2xl font-bold mb-2 text-center">Dear Parents</h2>
+            <h2 className="text-2xl font-bold mb-2 text-center text-red-500">Dear Parents</h2>
             <p className="leading-relaxed mb-4">
               We understand that Greek Life can be a controversial and somewhat clandestine community.
             </p>
@@ -34,7 +34,7 @@ const Parents = () => {
 
           {/* Section 2 */}
           <div>
-            <h2 className="text-2xl font-bold mb-2 text-center">The Intake Process</h2>
+            <h2 className="text-2xl font-bold mb-2 text-center text-red-500">The Intake Process</h2>
             <p className="leading-relaxed mb-4">
              Hazing is a charged and stigmatized word within our community. We are strongly against hazing. It describes a practice that puts our new members in unnecessary mental and physical harm.
              Regardless of the many definitions and standards of what is considered “hazing”, the National Board takes any hazing allegations very seriously, and will respond appropriately.
@@ -56,7 +56,7 @@ const Parents = () => {
 
           {/* Section 3 */}
           <div>
-            <h2 className="text-2xl font-bold mb-2 text-center">Alcohol</h2>
+            <h2 className="text-2xl font-bold mb-2 text-center text-red-500">Alcohol</h2>
             <p className="leading-relaxed">
               Pi Delta Psi prohibits all members from consuming alcohol while wearing fraternity attire, while participating in official fraternity events,
               and while attending any in-take education program. Any New Member found consuming alcohol during his process will be automatically ejected from the education process. 
@@ -68,7 +68,7 @@ const Parents = () => {
 
           {/* Section 4 */}
           <div>
-            <h2 className="text-2xl font-bold mb-2 text-center">Academics</h2>
+            <h2 className="text-2xl font-bold mb-2 text-center text-red-500">Academics</h2>
             <p className="leading-relaxed mb-4">
               Academic Achievement is our organization’s first pillar. We do maintain a minimum GPA requirement for students seeking membership 
               and for brothers wishing to remain active. Members who fail to maintain our academic standards are restricted from all fraternity activity.
@@ -79,12 +79,7 @@ const Parents = () => {
             </p>
           </div>
 
-          {/* Call to Action */}
-          <div className="mt-8 text-center">
-            <p className="text-xl font-bold">
-              Interested in becoming a brother of <span className="text-red-500">Pi Delta Psi</span>? <a href="https://docs.google.com/forms/d/18e9e_0IIo0OqEQf23wjr3Z6inZrCETbslvEUdiH6854/viewform?edit_requested=true" className="text-red-500 hover:underline">Click here</a>
-            </p>
-          </div>
+    
         </div>
       </div>
     </div>
