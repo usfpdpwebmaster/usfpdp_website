@@ -26,7 +26,8 @@ const Parents = () => {
              At Pi Delta Psi, we strive to establish a transparent organization that will allow students and their parents to make the right choice.
             </p>
             <p className="leading-relaxed">
-              You are welcome to contact us via usfpdpsi.president@gmail.com or on <a href="https://www.instagram.com/usfpdpsi/" className="text-red-500 hover:underline">Instagram</a>. 
+              You are welcome to contact us via <a href="mailto:usfpdpsi.president@gmail.com" className="text-red-500 hover:underline">usfpdpsi.president@gmail.com</a> or on 
+              <a href="https://www.instagram.com/usfpdpsi/" className="text-red-500 hover:underline">Instagram</a>. 
               Additionally, the information located below will provide our position on common issues.
             </p>
           </div>
