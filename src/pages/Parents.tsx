@@ -16,13 +16,13 @@ const Parents = () => {
           {/* Section 1 */}
           <div>
             <h2 className="text-2xl font-bold mb-2 text-center">Dear Parents</h2>
-            <p className="leading-relaxed">
+            <p className="leading-relaxed mb-4">
               We understand that Greek Life can be a controversial and somewhat clandestine community.
             </p>
-            <p className="leading-relaxed">
+            <p className="leading-relaxed mb-4">
              Coupled with common misconceptions and the academic vigor of higher education, we can expect parents to be concerned, and we welcome communication with parents to address those concern.
             </p>
-            <p className="leading-relaxed">
+            <p className="leading-relaxed ,b-4">
              At Pi Delta Psi, we strive to establish a transparent organization that will allow students and their parents to make the right choice.
             </p>
             <p className="leading-relaxed">
@@ -35,14 +35,14 @@ const Parents = () => {
           {/* Section 2 */}
           <div>
             <h2 className="text-2xl font-bold mb-2 text-center">The Intake Process</h2>
-            <p className="leading-relaxed">
+            <p className="leading-relaxed mb-4">
              Hazing is a charged and stigmatized word within our community. We are strongly against hazing. It describes a practice that puts our new members in unnecessary mental and physical harm.
              Regardless of the many definitions and standards of what is considered “hazing”, the National Board takes any hazing allegations very seriously, and will respond appropriately.
             </p>
-            <p className="leading-relaxed font-bold">
+            <p className="leading-relaxed font-bold mb-4">
               We are strongly against hazing. It describes a practice that puts our new members in unnecessary mental and physical harm.
             </p>
-            <p className="leading-relaxed">
+            <p className="leading-relaxed mb-4">
              Pi Delta Psi‘s intake process is rooted in a curriculum that familiarizes our members with Asian American history, contemporary social issues, and role models. 
               It aims to help our members establish a coherent identity and develop relevant leadership skills. Our process encourages a mentor-mentee relationship between 
               new members and the brothers in developing an understanding of the personal Asian American identity.
@@ -56,18 +56,26 @@ const Parents = () => {
 
           {/* Section 3 */}
           <div>
-            <h2 className="text-2xl font-bold mb-2 text-center">DO I HAVE TO BE ASIAN AMERICAN?</h2>
+            <h2 className="text-2xl font-bold mb-2 text-center">Alcohol</h2>
             <p className="leading-relaxed">
-              <span className="text-red-500 font-bold">No</span>, <span className="text-red-500">Pi Delta Psi</span> is open to men of <span className="text-red-500 font-bold">all</span> backgrounds. While the fraternity <span className="text-red-500">promotes</span> Asian American cultural awareness, it values <span className="text-red-500">diversity</span> and <span className="text-red-500">inclusivity</span>. Members from various ethnicities and cultures are welcome to <span className="text-red-500">join</span> and contribute to the fraternity's mission.
+              Pi Delta Psi prohibits all members from consuming alcohol while wearing fraternity attire, while participating in official fraternity events,
+              and while attending any in-take education program. Any New Member found consuming alcohol during his process will be automatically ejected from the education process. 
+              Pi Delta Psi seeks to uphold the highest standards of professionalism and recognizes that alcohol has no place within our organization’s curriculum. Violation of this 
+              policy has resulted in chapter suspension, the withdrawal of a chapter’s charter, or the termination of an individual’s membership.
             </p>
           </div>
           <div className="w-full h-0.5 bg-gray-300 my-4"></div>
 
           {/* Section 4 */}
           <div>
-            <h2 className="text-2xl font-bold mb-2 text-center">WHY PI DELTA PSI?</h2>
+            <h2 className="text-2xl font-bold mb-2 text-center">Academics</h2>
+            <p className="leading-relaxed mb-4">
+              Academic Achievement is our organization’s first pillar. We do maintain a minimum GPA requirement for students seeking membership 
+              and for brothers wishing to remain active. Members who fail to maintain our academic standards are restricted from all fraternity activity.
+            </p>
             <p className="leading-relaxed">
-              <span className="text-red-500">Pi Delta Psi</span> offers a unique <span className="text-red-500">brotherhood</span> experience that emphasizes <span className="text-red-500">academic achievement</span>, <span className="text-red-500">cultural awareness</span>, righteousness, friendship, and loyalty. Joining <span className="text-red-500">Pi Delta Psi</span> provides <span className="text-red-500">opportunities</span> for leadership development, community service, and <span className="text-red-500">lifelong</span> friendships. The fraternity's network of alumni and active members can also offer valuable <span className="text-red-500">support</span> and <span className="text-red-500">mentorship</span>.
+            Additionally, our National Board has partnered with Princeton Review to offer graduate school workshops and product discounts for members seeking 
+              higher education. We utilize our expanding network of alumni that can aid undergraduate members in their academic and professional goals.
             </p>
           </div>
 
