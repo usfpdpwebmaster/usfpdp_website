@@ -58,15 +58,15 @@ const Home = () => {
 
   const instagramPosts = [
     {
-      url: 'https://www.instagram.com/p/DESwh02R3eK/',
-      image: '/jeff_bots.jpg',
+      url: 'https://www.instagram.com/p/DFdRSpXxYzB/',
+      embed: true,
     },
     {
       url: 'https://www.instagram.com/p/DEkouhLxq8W/',
       embed: true,
     },
     {
-      url: 'https://www.instagram.com/p/DEpxUd6Rx4p/?img_index=2',
+      url: 'https://www.instagram.com/p/DFs0kdgxY7e/',
       embed: true,
     },
   ];
