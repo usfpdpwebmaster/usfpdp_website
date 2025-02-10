@@ -3,11 +3,27 @@ import { GraduationCap, Globe, Scale, HeartHandshake, Award, Heart, Instagram } 
 
 const Home = () => {
   useEffect(() => {
-    // Load Instagram embed script
-    const script = document.createElement('script');
-    script.src = "https://www.instagram.com/embed.js";
-    script.async = true;
-    document.body.appendChild(script);
+    // Function to load and process Instagram embeds
+    const loadInstagramEmbeds = () => {
+      if (window.instgrm) {
+        window.instgrm.Embeds.process();
+      } else {
+        // Load Instagram embed script if not already loaded
+        const script = document.createElement('script');
+        script.src = "https://www.instagram.com/embed.js";
+        script.async = true;
+        script.onload = () => {
+          // Process embeds after script loads
+          if (window.instgrm) {
+            window.instgrm.Embeds.process();
+          }
+        };
+        document.body.appendChild(script);
+      }
+    };
+
+    // Initial load of Instagram embeds
+    loadInstagramEmbeds();
 
     // Intersection Observer for scroll animations
     const observer = new IntersectionObserver((entries) => {
@@ -20,7 +36,9 @@ const Home = () => {
 
     document.querySelectorAll('.scroll-reveal').forEach(el => observer.observe(el));
 
-    return () => observer.disconnect();
+    return () => {
+      observer.disconnect();
+    };
   }, []);
 
   const pillars = [
