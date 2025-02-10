@@ -116,7 +116,7 @@ const roster = {
       { number: 56, name: 'The Phung', brotherName: 'WARLOCK' },
       { number: 57, name: 'Jimmy Nguyen', brotherName: 'Minotaur' },
       { number: 58, name: 'Dat Pham', brotherName: 'Death Adder' },
-      { number: 59, name: 'Brandom Pham', brotherName: 'Death Adder' },
+      { number: 59, name: 'Brandom Pham', brotherName: 'Tartarus' },
     ],
   },
   Mu: {
