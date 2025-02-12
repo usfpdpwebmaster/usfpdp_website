@@ -6,9 +6,9 @@ const ActiveHouse = () => {
     { position: 'President', name: 'Nickolas Chan', image: '/sp25_cab/nick_cab.jpg' },
     { position: 'Vice President External', name: 'Julian Legaspi', image: '/sp25_cab/kold_cab.jpg' },
     { position: 'Vice President Internal', name: 'Jeff Chen', image: '/sp25_cab/jeff_cab.jpg' },
-    { position: 'Treasurer', name: 'Chandee De Jesus', image: '/sp_25_cab/chandee_cab.jpg' },
-    { position: 'Recorder', name: 'Brandon Nguyen', image: '/sp_25_cab/brandon_cab.jpg' },
-    { position: 'Warden', name: 'Gabriel Rosales', image: '/sp_25_cab/gabe_cab.jpg' }
+    { position: 'Treasurer', name: 'Chandee De Jesus', image: '/sp25_cab/chandee_cab.jpg' },
+    { position: 'Recorder', name: 'Brandon Nguyen', image: '/sp25_cab/brandon_cab.jpg' },
+    { position: 'Warden', name: 'Gabriel Rosales', image: '/sp25_cab/gabe_cab.jpg' }
   ];
 
   const cabinet = [
