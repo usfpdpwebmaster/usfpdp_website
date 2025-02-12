@@ -3,7 +3,7 @@ import './ActiveHouse.css'; // Import the CSS file
 
 const ActiveHouse = () => {
   const eboard = [
-    { position: 'President', name: 'Nickolas Chan', image: '/nick_cabinet.JPG' },
+    { position: 'President', name: 'Nickolas Chan', image: '/sp25_cab/nick_cab.jpg' },
     { position: 'Vice President External', name: 'Julian Legaspi', image: '/legas3.JPG' },
     { position: 'Vice President Internal', name: 'Jeff Chen', image: '/jeff_cabinet.JPG' },
     { position: 'Treasurer', name: 'Chandee De Jesus', image: '/chandee_cabinet.JPG' },
