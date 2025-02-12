@@ -4,11 +4,11 @@ import './ActiveHouse.css'; // Import the CSS file
 const ActiveHouse = () => {
   const eboard = [
     { position: 'President', name: 'Nickolas Chan', image: '/sp25_cab/nick_cab.jpg' },
-    { position: 'Vice President External', name: 'Julian Legaspi', image: '/legas3.JPG' },
-    { position: 'Vice President Internal', name: 'Jeff Chen', image: '/jeff_cabinet.JPG' },
-    { position: 'Treasurer', name: 'Chandee De Jesus', image: '/chandee_cabinet.JPG' },
-    { position: 'Recorder', name: 'Brandon Nguyen', image: '/kutie.JPG' },
-    { position: 'Warden', name: 'Gabriel Rosales', image: '/gabe_cabinet.JPG' }
+    { position: 'Vice President External', name: 'Julian Legaspi', image: '/sp25_cab/kold_cab.jpg' },
+    { position: 'Vice President Internal', name: 'Jeff Chen', image: '/sp25_cab/jeff_cab.jpg' },
+    { position: 'Treasurer', name: 'Chandee De Jesus', image: '/sp_25_cab/chandee_cab.jpg' },
+    { position: 'Recorder', name: 'Brandon Nguyen', image: '/sp_25_cab/brandon_cab.jpg' },
+    { position: 'Warden', name: 'Gabriel Rosales', image: '/sp_25_cab/gabe_cab.jpg' }
   ];
 
   const cabinet = [
