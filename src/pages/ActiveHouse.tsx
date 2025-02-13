@@ -41,24 +41,24 @@ const ActiveHouse = () => {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
             {eboard.map((position, index) => (
               <div
-                key={position.name}
+                key={position.position}
                 className="flex flex-col items-center bg-gray-800 rounded-xl p-6 shadow-lg hover:shadow-2xl transition-transform transform hover:scale-105"
               >
-                <h3 className="text-2xl font-semibold mb-4 text-center">{position.name}</h3>
                 <div className="w-64 h-64 bg-gray-200 rounded-lg overflow-hidden shadow-inner">
                   <img
                     src={position.image}
-                    alt={`${position.position} - ${position.name}`}
+                    alt={`${position.name} - ${position.position}`}
                     className="w-full h-full object-cover"
                   />
                 </div>
-                <p className="mt-4 text-xl text-center font-Rijusans">{position.position || 'TBA'}</p>
+                <p className="mt-4 text-xl text-center font-Rijusans">{position.name || 'TBA'}</p>
+                <h3 className="text-2xl font-semibold text-center">{position.position}</h3>
               </div>
             ))}
           </div>
         </section>
 
-        {/* Active House Members Section (Newly Styled) */}
+        {/* Active House Members Section */}
         <section className="mb-24">
           <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-center mb-12 tracking-wide text-gray-100">
             Active House Members
