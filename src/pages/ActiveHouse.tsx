@@ -7,33 +7,21 @@ const ActiveHouse = () => {
     { position: 'President', name: 'Nickolas Chan', image: '/sp25_cab/nick_cab.jpg' },
     { position: 'Vice President Internal', name: 'Jeff Chen', image: '/sp25_cab/jeff_cab.jpg' },
     { position: 'Treasurer', name: 'Chandee De Jesus', image: '/sp25_cab/chandee_cab.jpg' },
-    { position: 'Recorder, Academic, Cultural, Fraternity Artist', name: 'Brandon Nguyen', image: '/sp25_cab/brandon_cab.jpg' },
+    { position: 'Recorder, Academic, Cultural, Historian, Fraternity Artist', name: 'Brandon Nguyen', image: '/sp25_cab/brandon_cab.jpg' },
     { position: 'Warden, Cultural', name: 'Gabriel Rosales', image: '/sp25_cab/gabe_cab.jpg' }
   ];
 
   const cabinet = [
-    { position: 'Academic Chair', name: 'Brandon Nguyen', image: '/kutie.JPG' },
-    { position: 'Performance Chair', name: 'Harrison Hong', image: '/hoosh_cabinet.JPG' },
-    { position: 'Performance Chair', name: 'Thomveebol Phorn', image: '/thom_cabinet.JPG' },
-    { position: 'Cultural Chair', name: 'Gabriel Rosales', image: '/gabe_cabinet.JPG' },
-    { position: 'Cultural Chair', name: 'Brandon Nguyen', image: '/kutie.JPG' },
-    { position: 'Brother Unity', name: 'Shawn Nguyen', image: '/shawn_cabinet.JPG' },
-    { position: 'Alumni Chair', name: 'Shawn Nguyen', image: '/shawn_cabinet.JPG' },
-    { position: 'Fundraising Chair', name: 'Andrew Chau', image: '/chau_cabinet.JPG' },
-    { position: 'Fundraising Chair', name: 'Aaron Tran', image: '/aawon_cabinet.JPG' },
-    { position: 'Recruitment Chair', name: 'Andrew Chau', image: '/chau_cabinet.JPG' },
-    { position: 'Recruitment Chair', name: 'Harrison Hong', image: '/hoosh_cabinet.JPG' },
-    { position: 'Recruitment Chair', name: 'Shawn Nguyen', image: '/shawn_cabinet.JPG' },
-    { position: 'Social Chair', name: 'Moe', image: '/Asset_3.png' },
-    { position: 'Philanthropy Chair', name: 'Brian Jiang', image: '/Asset_3.png' },
-    { position: 'Fraternity Artist', name: 'Andrew Chau', image: '/chau_cabinet.JPG' },
-    { position: 'Fraternity Artist', name: 'Julian Legaspi', image: '/legas3.JPG' },
-    { position: 'Multimedia Chair', name: 'Julian Legaspi', image: '/legas3.JPG' },
-    { position: 'Webmaster', name: 'Thomveebol Phorn', image: '/thom_cabinet.JPG' },
-    { position: 'Historian', name: 'Thomveebol Phorn', image: '/thom_cabinet.JPG' },
-    { position: 'Historian', name: 'Brandon Nguyen', image: '/kutie.JPG' },
-    { position: 'Risk Management', name: 'Dillon Berger', image: '/dillers_cabinet.JPG' },
-    { position: 'Alumni Advisor', name: 'Edison Lin', image: '/Asset_3.png' }
+    { position: 'Performance Chair, Recruitment', name: 'Harrison Hong', image: '/sp25_cab/harry_cab.jpg' },
+    { position: 'Performance, Webmaster, Historian, Fraternity Artist', name: 'Thomveebol Phorn', image: '/sp25_cab/thom_cab.jpg' },
+    { position: 'Brother Unity, Recruitment, Alumni', name: 'Shawn Nguyen', image: '/sp25_cab/shawn_cab.jpg' },
+    { position: 'Fundraising, Recruitment, Fraternity Artist', name: 'Andrew Chau', image: '/sp25_cab/chau_cab.jpg' },
+    { position: 'Fundraising', name: 'Aaron Tran', image: '/sp25_cab/aaron_cab.jpg' },
+    { position: 'Social', name: 'Muhamad Almasri', image: '/sp25_cab/moe_cab.jpg' },
+    { position: 'Philanthropy', name: 'Brian Jiang', image: '/sp25_cab/brian_cab.jpg' },
+    { position: 'Risk Management', name: 'Dillon Berger', image: '/sp25_cab/dill_cab.jpg' },
+    { position: 'Alumni Advisor', name: 'Edison Lin', image: '/sp25_cab/edison_cab.jpg' },
+    { position: 'Quartermaster', name: 'Andy Zheng', image: '/sp25_cab/andy_cab.jpg' }
   ];
 
   return (
