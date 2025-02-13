@@ -73,14 +73,14 @@ const Home = () => {
       description: "Fostering lifelong bonds and unwavering brotherhood"
     }
   ];
-
+  {/* Change links here for maintenance throughout the semester for LATEST UPDATES*/}
   const instagramPosts = [
     {
       url: 'https://www.instagram.com/p/DFdRSpXxYzB/',
       embed: true,
     },
     {
-      url: 'https://www.instagram.com/p/DEkouhLxq8W/',
+      url: 'https://www.instagram.com/p/DF8c1yVy4sN/',
       embed: true,
     },
     {
