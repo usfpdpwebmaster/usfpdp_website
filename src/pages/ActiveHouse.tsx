@@ -39,20 +39,20 @@ const ActiveHouse = () => {
             Executive Board
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
-            {eboard.map((position, index) => (
+            {eboard.map((member, index) => (
               <div
-                key={position.position}
+                key={member.position}
                 className="flex flex-col items-center bg-gray-800 rounded-xl p-6 shadow-lg hover:shadow-2xl transition-transform transform hover:scale-105"
               >
                 <div className="w-64 h-64 bg-gray-200 rounded-lg overflow-hidden shadow-inner">
                   <img
-                    src={position.image}
-                    alt={`${position.name} - ${position.position}`}
+                    src={member.image}
+                    alt={`${member.name} - ${member.position}`}
                     className="w-full h-full object-cover"
                   />
                 </div>
-                <p className="mt-4 text-xl text-center font-Rijusans">{position.name || 'TBA'}</p>
-                <h3 className="text-2xl font-semibold text-center">{position.position}</h3>
+                <p className="mt-4 text-xl text-center font-Rijusans">{member.position || 'TBA'}</p>
+                <h3 className="text-2xl font-semibold text-center">{member.name}</h3>
               </div>
             ))}
           </div>
