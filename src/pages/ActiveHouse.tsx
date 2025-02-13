@@ -3,8 +3,8 @@ import './ActiveHouse.css'; // Import the CSS file
 
 const ActiveHouse = () => {
   const eboard = [
-    { position: 'President', name: 'Nickolas Chan', image: '/sp25_cab/nick_cab.jpg' },
     { position: 'Vice President External, Fraternity Artist, Multimedia', name: 'Julian Legaspi', image: '/sp25_cab/kold_cab.jpg' },
+    { position: 'President', name: 'Nickolas Chan', image: '/sp25_cab/nick_cab.jpg' },
     { position: 'Vice President Internal', name: 'Jeff Chen', image: '/sp25_cab/jeff_cab.jpg' },
     { position: 'Treasurer', name: 'Chandee De Jesus', image: '/sp25_cab/chandee_cab.jpg' },
     { position: 'Recorder, Academic, Cultural, Fraternity Artist', name: 'Brandon Nguyen', image: '/sp25_cab/brandon_cab.jpg' },
