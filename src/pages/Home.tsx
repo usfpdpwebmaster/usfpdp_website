@@ -84,7 +84,7 @@ const Home = () => {
       embed: true,
     },
     {
-      url: 'https://www.instagram.com/p/DFs0kdgxY7e/',
+      url: 'https://www.instagram.com/p/DF_CA_RSgnv/',
       embed: true,
     },
   ];
