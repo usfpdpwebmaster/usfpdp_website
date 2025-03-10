@@ -254,11 +254,10 @@ const roster = {
     ],
   },
   'Alpha Gamma': {
-    classPicture: '/AGs.jpeg',
+    classPicture: '',
     members: [
       { number: 131, name: 'Julian Legaspi', brotherName: 'Kold-Blooded' },
       { number: 132, name: 'Diego Adesso', brotherName: 'INQUISITOR' },
-      { number: 133, name: 'Harrison Hong', brotherName: 'DEIMOS' },
       { number: 134, name: 'Jeff Chen', brotherName: 'LASTBREATH' },
       { number: 135, name: 'Andy Zheng', brotherName: 'KENPACHI' },
       { number: 136, name: 'Mike Phan', brotherName: 'CHOSEN ONE' },
