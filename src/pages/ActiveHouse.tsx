@@ -12,7 +12,6 @@ const ActiveHouse = () => {
   ];
 
   const cabinet = [
-    { position: 'Performance Chair, Recruitment', name: 'Harrison Hong', image: '/sp25_cab/harry_cab.jpg' },
     { position: 'Performance, Webmaster, Historian, Fraternity Artist', name: 'Thomveebol Phorn', image: '/sp25_cab/thom_cab.jpg' },
     { position: 'Brother Unity, Recruitment, Alumni', name: 'Shawn Nguyen', image: '/sp25_cab/shawn_cab.jpg' },
     { position: 'Fundraising, Recruitment, Fraternity Artist', name: 'Andrew Chau', image: '/sp25_cab/chau_cab.jpg' },
