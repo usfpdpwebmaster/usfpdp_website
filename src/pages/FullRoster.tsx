@@ -41,7 +41,7 @@ const roster = {
     classPicture: '/deltas.png',
     members: [
       { number: 18, name: 'Nino Fajardo', brotherName: 'Kode Red' },
-      { number: 19, name: 'Jeffery Lim', brotherName: 'Ironclad' },
+      { number: 19, name: 'Jeffrey Lim', brotherName: 'Ironclad' },
       { number: 20, name: 'Luis Lozano', brotherName: 'Falsetto' },
       { number: 21, name: 'Jeff Gao', brotherName: 'COMBAT' },
       { number: 22, name: 'Kishan Fichadiya', brotherName: 'EMBLEM' },
