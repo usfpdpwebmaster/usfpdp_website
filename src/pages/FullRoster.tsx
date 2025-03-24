@@ -254,7 +254,7 @@ const roster = {
     ],
   },
   'Alpha Gamma': {
-    classPicture: 'AGs.jpeg',
+    classPicture: '/AGs.jpeg',
     members: [
       { number: 131, name: 'Julian Legaspi', brotherName: 'Kold-Blooded' },
       { number: 132, name: 'Diego Adesso', brotherName: 'INQUISITOR' },
