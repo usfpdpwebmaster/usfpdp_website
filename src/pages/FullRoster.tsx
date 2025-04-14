@@ -193,7 +193,7 @@ const roster = {
       { number: 99, name: 'Luan Phan', brotherName: 'SHINSEIDO' },
       { number: 100, name: 'Derick Vo', brotherName: 'Infinitum' },
       { number: 101, name: 'Dat Huynh', brotherName: 'UNDISPUTED' },
-      { number: 102, name: 'Eduardo Chong', brotherName: 'NORGAMI' },
+      { number: 102, name: 'Eduardo Chong', brotherName: 'NORAGAMI' },
       { number: 104, name: 'Tommy Tran', brotherName: 'NAUCRATIS' },
       { number: 105, name: 'Sean Williams', brotherName: 'KHONSU' },
     ],
