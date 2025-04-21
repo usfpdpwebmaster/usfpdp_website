@@ -282,8 +282,8 @@ const roster = {
       ],
     },
   };
-  'Alpha Epsilon': {
-      classPicture: '/AZs.JPG',
+  'Alpha Zeta': {
+      classPicture: '/AZs.jpg',
       members: [
         { number: 144, name: 'Phu Tran', brotherName: 'KIMURA' },
         { number: 145, name: 'Matthew Lim', brotherName: 'PERSES' },
@@ -351,6 +351,7 @@ const roster = {
     'Alpha Gamma': 'Spring 2023',
     'Alpha Delta': 'Fall 2023',
     'Alpha Epsilon': 'Spring 2024',
+    'Alpha Zeta': 'Spring 2025',
   };
   
   const getGreekLabel = (index) => {
