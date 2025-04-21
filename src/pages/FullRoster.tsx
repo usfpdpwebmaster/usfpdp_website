@@ -286,7 +286,7 @@ const roster = {
       classPicture: '/AZs.JPG',
       members: [
         { number: 144, name: 'Phu Tran', brotherName: 'KIMURA' },
-        { number: 145, name: 'Matthew Lim', brotherName: 'Perses' },
+        { number: 145, name: 'Matthew Lim', brotherName: 'PERSES' },
         { number: 146, name: 'Michael Nguyen', brotherName: 'Driftking' },
       ],
     },
@@ -320,6 +320,7 @@ const roster = {
     { greek: 'ΑΓ', english: 'Alpha Gamma' },
     { greek: 'ΑΔ', english: 'Alpha Delta' },
     { greek: 'ΑΕ', english: 'Alpha Epsilon' },
+    { greek: 'AZ', english: 'Alpha Zeta' },
   ];
   
   const classYears = {
