@@ -281,7 +281,6 @@ const roster = {
         { number: 143, name: 'Moe Almasri', brotherName: 'FRANCHISE' },
       ],
     },
-  };
   'Alpha Zeta': {
       classPicture: '/AZs.jpg',
       members: [
