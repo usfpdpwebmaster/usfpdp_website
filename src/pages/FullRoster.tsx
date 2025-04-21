@@ -273,12 +273,21 @@ const roster = {
       { number: 140, name: 'Chandee De Jesus', brotherName: 'P.U.R.G.A.T.O.R.Y.' },
     ],
   },
-    'Alpha Epsilon': {
+  'Alpha Epsilon': {
       classPicture: '/AEs.JPG',
       members: [
         { number: 141, name: 'Brandon Nguyen', brotherName: 'Kavalry' },
         { number: 142, name: 'Shawn Nguyen', brotherName: 'SHADOWBORN' },
         { number: 143, name: 'Moe Almasri', brotherName: 'FRANCHISE' },
+      ],
+    },
+  };
+  'Alpha Epsilon': {
+      classPicture: '/AZs.JPG',
+      members: [
+        { number: 144, name: 'Phu Tran', brotherName: 'KIMURA' },
+        { number: 145, name: 'Matthew Lim', brotherName: 'Perses' },
+        { number: 146, name: 'Michael Nguyen', brotherName: 'Driftking' },
       ],
     },
   };
