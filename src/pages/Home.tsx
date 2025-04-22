@@ -76,11 +76,11 @@ const Home = () => {
   {/* Change links here for maintenance throughout the semester for LATEST UPDATES*/}
   const instagramPosts = [
     {
-      url: 'https://www.instagram.com/p/DIPgd6dxPZ_/',
+      url: 'https://www.instagram.com/p/DIt89YXxobZ/',
       embed: true,
     },
     {
-      url: 'https://www.instagram.com/p/DG82C1NRrN6/',
+      url: 'https://www.instagram.com/p/DIrqpopygjm/',
       embed: true,
     },
     {
