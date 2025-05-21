@@ -274,7 +274,7 @@ const roster = {
     ],
   },
   'Alpha Epsilon': {
-      classPicture: '/AEs.JPG',
+      classPicture: '/AEs.jpg',
       members: [
         { number: 141, name: 'Brandon Nguyen', brotherName: 'Kavalry', big: 'AA #124 - Benjamin Nguyen (Kartier)' },
         { number: 142, name: 'Shawn Nguyen', brotherName: 'SHADOWBORN', big: 'Ω #122 - Moses Phan (SHROUD)' },
