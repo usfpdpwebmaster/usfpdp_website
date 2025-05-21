@@ -194,7 +194,7 @@ const roster = {
       { number: 100, name: 'Derick Vo', brotherName: 'Infinitum', big: 'O #75 - Judsy Cabatana (Deuterium)', little: 'Ψ #117 - Harvey Dang (Valorum)' },
       { number: 101, name: 'Dat Huynh', brotherName: 'UNDISPUTED', big: 'P #81 - Calvin Nguyen (HYPERBEAST)', little: 'AA #126 - Brian Jiang (BLOODBATH)' },
       { number: 102, name: 'Eduardo Chong', brotherName: 'NORAGAMI', big: 'Σ #93 - Giovanni Ragusa (GILGAMESH)' },
-      { number: 104, name: 'Tommy Tai Tran', brotherName: 'NAUCRATIS', big: 'P #85 Vladimir Shpilchevskiy (LUXOR)', little: 'X #111 - Kevin Dau (CARTHAGE) & X #112 - Frank Guzman (BABYLON)' },
+      { number: 104, name: 'Tommy Tai Tran', brotherName: 'NAUCRATIS', big: 'P #85 Vladimir Shpilchevskiy (LUXOR)', little: 'X #111 - Kevin Dau (CARTHAGE), X #112 - Frank Guzman (BABYLON), UNF Associate Chapter B #5 - Brandon Dinh (OASIS) & UNF Associate Chapter B #6 - Kush Patel (UTOPIA)' },
       { number: 105, name: 'Sean Williams', brotherName: 'KHONSU', big: 'Σ #89 Dominic Gamonez (SOBEK)', little: 'ΑΓ #133 - Harrison Hong (DEIMOS)' },
     ],
   },
