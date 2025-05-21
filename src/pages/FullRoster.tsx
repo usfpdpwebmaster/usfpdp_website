@@ -149,7 +149,7 @@ const roster = {
       { number: 75, name: 'Judsy Cabatana', brotherName: 'Deuterium', big: 'Λ #57 - Jimmy Nguyen (Minotaur)', little: 'Y #100 - Derick Vo (Infinitium)' },
       { number: 76, name: 'Michael Nguyen', brotherName: 'Arachnid', big: 'N #73 - Christian Oosthuizen (Cashout)', little: 'Σ #88 - Kevin Ly (Aurelius)' },
       { number: 77, name: 'Minh Nguyen', brotherName: 'KILL SWITCH', big: 'N #72 - David Dang (TENSEIGA)', little: 'P #86 - Jarrod Van Loon (LETHAL)' },
-      { number: 78, name: 'Tai Hailè,', brotherName: 'SHENRON', big: 'M #66 - Quy Van (DEADLIFT)', little: 'T #95 - Brandon Le (SHOGANAI) & Y #99 Luan Phan (SHINSEIDO)' },
+      { number: 78, name: 'Tai Hailè', brotherName: 'SHENRON', big: 'M #66 - Quy Van (DEADLIFT)', little: 'T #95 - Brandon Le (SHOGANAI) & Y #99 Luan Phan (SHINSEIDO)' },
       { number: 79, name: 'Kenny Nguyen', brotherName: 'illicit', big: 'M #61 - Andy Le (Hardstyle)', little: 'Σ #92 - Harrison Do (Prophecy)' },
       { number: 80, name: 'Randy Tran', brotherName: 'Kloud 9', big: 'N #69 - Daniel Phan (Klassic)', little: 'P #83 - Sean DiPietro (Kovert) & T #97 - Son Cao (Krucible)' },
 
