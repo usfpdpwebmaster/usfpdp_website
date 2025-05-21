@@ -17,7 +17,7 @@ const roster = {
       { number: 7, name: 'Tuan Le', brotherName: 'Four Ize', big: 'Σ Chapter - Mauricio Molina (Deadlock)', little: 'E #26 - Michael Nation (Axis)' },
       { number: 8, name: 'Newton Nguyen', brotherName: 'The Kount', big: 'Σ Chapter - Loc Nguyen (Konvict)', little: 'B #13 - Renato Marciano (Kartel)' },
       { number: 9, name: 'Michael Montuno', brotherName: 'Ballistic', big: 'Σ Chapter - Daniel Cuevas (Bob-omb)', little: 'Δ #19 - Jeffrey Lim (Ironclad)' },
-      { number: 10, name: 'Johnny Nguyen', brotherName: 'Primal', big: 'Σ Chapter - Ricky Ly (Red Tide)', little: 'B #14 - Thierry Phouthavong (T.K.O.) & Δ #22 - Kishan Fichadiya (EMBLEM)'  },
+      { number: 10, name: 'Johnny Nguyen', brotherName: 'Primal', big: 'Φ Chapter - Ricky Ly (Red Tide)', little: 'B #14 - Thierry Phouthavong (T.K.O.) & Δ #22 - Kishan Fichadiya (EMBLEM)'  },
     ],
   },
   Beta: {
