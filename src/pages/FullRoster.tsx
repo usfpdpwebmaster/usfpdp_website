@@ -109,7 +109,7 @@ const roster = {
     ],
   },
   Lambda: {
-    classPicture: '/lambdas.jpg',
+    classPicture: '/lambdas.JPG',
     members: [
       { number: 54, name: 'Juan Chau', brotherName: 'UPROAR', big: 'Θ #38 - Vinson Cao (Volatile)', little: 'P #81 - Calvin Nguyen (HYPERBEAST)' },
       { number: 55, name: 'Quan Nguyen', brotherName: 'Seeker', big: 'I #47 - Albert Reyes (Asylum)', little: 'N #71 - Quan Huynh (Global)' },
