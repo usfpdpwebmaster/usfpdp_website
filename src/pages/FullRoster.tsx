@@ -160,7 +160,7 @@ const roster = {
     members: [
       { number: 81, name: 'Calvin Nguyen', brotherName: 'HYPERBEAST', big: 'Λ #54 - Juan Chau (UPROAR)', little: 'Y #101 - Dat Huynh (UNDISPUTED)' },
       { number: 82, name: 'Joshua Abrahan', brotherName: 'HORUS', big: 'M #62 - Bryan San Antonio (SCARAB)', little: 'Σ #89 - Dominic Gamonez (SOBEK) & AΓ #137 - Dillon Berger (KHEPERA)' },
-      { number: 83, name: 'Sean DiPietro', brotherName: 'Kovert', big: 'O #80 - Randy Tran (Kloud 9)', little: 'AA #125 - Bill Tran (Kanon)' },
+      { number: 83, name: 'Sean DiPietro', brotherName: 'Kovert', big: 'O #80 - Randy Tran (Kloud 9)', little: 'AA #125 - Bill Tran (Kanon) & UNF Associate Chapter A #2 - Leland Roxas Caro (Campeón)' },
       { number: 84, name: 'Brandon Lim', brotherName: 'CLASS WAR', big: 'M #63 - Devin Tran (KNIVES)', little: 'T #94 - Albert Cala (CONQUEROR) & AΓ #136 - Tuan Kiet (Mike) Phan' },
       { number: 85, name: 'Vladimir Shpilchevskiy', brotherName: 'LUXOR', big: 'M - #62 Bryan San Antonio (SCARAB)', little: 'Y #104 - Tommy Tai Tran (NAUCRATIS)' },
       { number: 86, name: 'Jarrod Van Loon', brotherName: 'LETHAL', big: 'O #77 - Minh Nguyen (KILL SWITCH)' },
