@@ -8,7 +8,7 @@ const roster = {
   Alpha: {
     classPicture: '/alphas.jpg',
     members: [
-      { number: 1, name: 'Tony Mai', brotherName: 'KidRobot', big: '(UF) A #15 - John Lam (Venom)', little: 'B #16 - Christian Reynes (Rebel Ape) & Δ #20 - Luis Lozano (Falsetto)' },
+      { number: 1, name: 'Tony Mai1', brotherName: 'KidRobot', big: '(UF) A #15 - John Lam (Venom)', little: 'B #16 - Christian Reynes (Rebel Ape) & Δ #20 - Luis Lozano (Falsetto)' },
       { number: 2, name: 'Romel Pancho', brotherName: 'F.E.A.R.', big: '(UF) B #30 - Tri Bui (U.R.B.A.N.)', little: 'Γ #17 - Lam Nguyen (E.L.I.T.E)' },
       { number: 3, name: 'Jonathan Barlaan', brotherName: 'Impound', big: '(UF) A #11 - Peter Nguyen (Rocafella)', little: 'E #27 - Christian Alvarez (Bahamut) & K #53 - Richard Han (The Decision)' },
       { number: 4, name: 'Billy Bui', brotherName: 'Easy Rider', big: '(UF) A #8 - Arif Ahmed (Brick)', little: 'B #11 - Richard Barrido (Bloodlust)' },
