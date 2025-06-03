@@ -212,7 +212,7 @@ const roster = {
     classPicture: '/chis.JPG',
     members: [
       { number: 111, name: 'Kevin Dau', brotherName: 'CARTHAGE', big: 'Y #104 - Tommy Tai Tran (NAUCRATIS)', little: 'Ψ #115 - Danny Truong (CALAIS)' },
-      { number: 112, name: 'Frank Guzman', brotherName: 'BABYLON', big: 'Y #104 - Tommy Tai Tran (NAUCRATIS)', little: 'Ψ #118 - Christopher Pham (NOXUS)'  },
+      { number: 112, name: 'Frank Guzman', brotherName: 'BABYLON', big: 'Y #104 - Tommy Tai Tran (NAUCRATIS)', little: 'Ψ #118 - Christopher Pham (NOXUS) & UNF Associate Chapter A #1 - Thyttus Delos Reyes (BLÜDHAVEN)'  },
       { number: 113, name: 'Minh-Kha Vu', brotherName: 'CAPTIVATE', big: 'Y #99 - Luan Phan (SHINSEIDO)' },
     ],
   },
@@ -230,7 +230,7 @@ const roster = {
     classPicture: '/omegas.jpg',
     members: [
     { number: 119, name: 'Vanny Ho', brotherName: 'LEGEND', big: 'Y #99 - Luan Phan (SHINSEIDO)', little: 'AΔ #138 - Aaron Tran (FLASHBACK)' },
-    { number: 120, name: 'Edison Lin', brotherName: 'DNR', big: 'Σ #90 - James Wang (ENDGAME)', little: 'ΑΓ #134 - Jeff Chen (LASTBREATH)' },
+    { number: 120, name: 'Edison Lin', brotherName: 'DNR', big: 'Σ #90 - James Wang (ENDGAME)', little: 'ΑΓ #134 - Jeff Chen (LASTBREATH) & UNF Associate Chapter B #7 - Ian Arino (MORTALITY)' },
     { number: 121, name: 'Kervensky Anestil', brotherName: 'Mogul', big: 'Φ #110 - Kwabena Casimir (Galand)', little: 'AB #129 - Gabriel Rosales (Kothar)' },
     { number: 122, name: 'Moses Phan', brotherName: 'SHROUD', big: 'T #95 - Brandon Le (SHOGANAI)', little: 'AE #142 - Shawn Nguyen (SHADOWBORN)' },
     { number: 123, name: 'Kevin Pham', brotherName: 'HELLBENT', big: 'Σ #87 - Thomas Dang (GUNMETAL)', little: 'AB #130 - David Kim (FANATIC)' },
