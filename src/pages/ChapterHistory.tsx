@@ -27,13 +27,13 @@ const ChapterHistory = () => {
             University of South Florida. Guided by the four pillars of <span className="text-red-500">Academic Achievement</span>, <span className="text-red-500">Cultural
             Awareness</span>, <span className="text-red-500">Righteousness</span>, and <span className="text-red-500">Friendship/Loyalty</span>. From its earliest days, This <span className="text-red-500">brotherhood</span> continues to <span className="text-red-500">empower </span>
             its members to rise above expectations, break stereotypes, fight discrimination, celebrate their heritage, and set
-            higher for standards themselves and their communities.
+            higher standards for themselves and their communities.
             
           </p>
           <p className="leading-relaxed">
             From its founding to the present day, <span className="text-red-500">Pi Delta Psi</span> at the University of South Florida remains committed
             to its core values and dedicated to empowering its members and the student body to help <span className="text-red-500">maximize </span>
-             the potential of a South Florida Bull and leave their mark on the world!
+             the potential of a South Florida Bull! 
           </p>
         </div>
       </div>
