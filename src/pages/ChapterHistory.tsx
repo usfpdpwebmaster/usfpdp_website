@@ -17,14 +17,14 @@ const ChapterHistory = () => {
             <img src="/alphas_backshots.jpg" className="w-full md:w-full rounded-lg shadow-md mb-8 md:mb-0" />
           </div>
           <p className="leading-relaxed">
-            In 2008, 10 men who were already <span className="text-red-500">leaders</span> in their own rights sought to bring a greater
+            In 2008, ten men who were already <span className="text-red-500">leaders</span> in their own rights sought to bring a greater
             presence to the <span className="text-red-500">Asian voice</span> at the University of South 
             Florida at the Tampa Bay Area. 
           </p>
           <p className="leading-relaxed">
-            On <span className="text-red-500">November 9th</span>, <span className="text-red-500">2008</span>, these 10 men <span className="text-red-500">emerged</span> as <span className="text-red-500">Pi Delta Psi Fraternity, Inc.</span> at the 
-            University of South Florida. Guided by the 4 pillars of <span className="text-red-500">Academic Achievement</span>, <span className="text-red-500">Cultural
-            Awareness</span>, <span className="text-red-500">Righteousness</span>, and <span className="text-red-500">Friendship/Loyalty</span>, this eternal <span className="text-red-500">brotherhood</span> continues to <span className="text-red-500">empower </span>
+            On <span className="text-red-500">November 9th</span>, <span className="text-red-500">2008</span>, these ten men <span className="text-red-500">emerged</span> as <span className="text-red-500">Pi Delta Psi Fraternity, Inc.</span> at the 
+            University of South Florida. Guided by the four pillars of <span className="text-red-500">Academic Achievement</span>, <span className="text-red-500">Cultural
+            Awareness</span>, <span className="text-red-500">Righteousness</span>, and <span className="text-red-500">Friendship/Loyalty</span>. This eternal <span className="text-red-500">brotherhood</span> continues to <span className="text-red-500">empower </span>
             its members to break stereotypes, fight discrimination, celebrate diversity, and set
             new standards for academic excellence.
             
