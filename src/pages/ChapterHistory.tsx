@@ -18,7 +18,7 @@ const ChapterHistory = () => {
           </div>
           <p className="leading-relaxed">
             In 2008, 10 men who were already <span className="text-red-500">leaders</span> in their own rights sought to bring a greater
-            presence to the <span className="text-red-500">Asian voice</span> and to create a lasting imapct at the University of South 
+            presence to the <span className="text-red-500">Asian voice</span> at the University of South 
             Florida at the Tampa Bay Area. 
           </p>
           <p className="leading-relaxed">
@@ -26,14 +26,13 @@ const ChapterHistory = () => {
             University of South Florida. Guided by the 4 pillars of <span className="text-red-500">Academic Achievement</span>, <span className="text-red-500">Cultural
             Awareness</span>, <span className="text-red-500">Righteousness</span>, and <span className="text-red-500">Friendship/Loyalty</span>, this eternal <span className="text-red-500">brotherhood</span> continues to <span className="text-red-500">empower </span>
             its members to break stereotypes, fight discrimination, celebrate diversity, and set
-            new standards for academic excellence. They sought to create a space where individuals could not only foster leadership but also support one 
-            another in a collective mission to promote unity, diversity, and academic excellence within the university community.
+            new standards for academic excellence.
+            
           </p>
           <p className="leading-relaxed">
             Since its inception, <span className="text-red-500">Pi Delta Psi</span> at the University of South Florida aims to be steadfast
             in adhering to its morals and educating its members and the student body to help <span className="text-red-500">maximize </span>
-             the potential of a South Florida Bull. Through a legacy of integrity and achievement, <span className="text-red-500">Pi Delta Psi </span>
-            aims to leave a lasting mark on the university and beyond.
+             the potential of a South Florida Bull!
           </p>
         </div>
       </div>
