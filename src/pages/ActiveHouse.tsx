@@ -6,9 +6,9 @@ const ActiveHouse = () => {
     { position: 'Vice President External, Cultural', name: 'Andy Zheng', image: '/fa25_cab/andy cab.jpeg' },
     { position: 'President', name: 'Julian Legaspi', image: '/fa25_cab/julian cab.JPG' },
     { position: 'Vice President Internal, Historian', name: 'Brandon Nguyen', image: '/fa25_cab/brandon cab.JPG' },
-    { position: 'Treasurer, Fundraising, Webmaster, Historian', name: 'Phu Tran', image: '/fa25_cab/phu cab.JPG' },
     { position: 'Recorder, Academic, Recruitment', name: 'Matthew Lim', image: '/fa25_cab/matthew cab.JPG' },
-    { position: 'Warden', name: 'Jeff Chen', image: '/fa25_cab/jeff cab.JPG' }
+    { position: 'Warden', name: 'Jeff Chen', image: '/fa25_cab/jeff cab.JPG' },
+    { position: 'Treasurer, Fundraising, Webmaster, Historian', name: 'Phu Tran', image: '/fa25_cab/phu cab.JPG' }
   ];
 
   const cabinet = [
@@ -24,7 +24,7 @@ const ActiveHouse = () => {
       <div className="container mx-auto px-8 py-12">
         {/* Active House Title */}
         <h1 className="text-6xl font-extrabold text-center mb-16 tracking-wide text-red-500">
-          Spring 2025 Active House
+          Fall 2025 Active House
         </h1>
 
         {/* Executive Board Section */}
