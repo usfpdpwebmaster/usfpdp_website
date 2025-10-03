@@ -204,7 +204,7 @@ const Home = () => {
             <div className="scroll-reveal">
               <p className="text-xl mb-6">Ready to become part of something greater?</p>
               <a 
-                href="https://docs.google.com/forms/d/18e9e_0IIo0OqEQf23wjr3Z6inZrCETbslvEUdiH6854/viewform?edit_requested=true&pli=1" 
+                href="https://docs.google.com/forms/d/e/1FAIpQLSdqlcc-vR61_nwt2lZTz3v0UFtKbdpGvQ6NJeU-JjSnxgjTug/viewform" 
                 className="inline-block bg-red-500 text-white px-8 py-3 rounded-full text-lg font-semibold hover:bg-red-600 transition-all duration-300 transform hover:scale-105"
                 target="_blank" 
                 rel="noopener noreferrer"
