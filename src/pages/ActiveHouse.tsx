@@ -57,11 +57,28 @@ const ActiveHouse = () => {
           <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-center mb-12 tracking-wide text-gray-100">
             Cabinet Board
           </h2>
-
-          <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-12 justify-center">
-            {cabinet.map((member, index) => (
+          
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
+          {cabinet.slice(0, 3).map((member, index) => (
+            <div
+              key={index}
+              className="flex flex-col items-center bg-gray-800 rounded-xl p-6 shadow-lg hover:shadow-2xl transition-transform transform hover:scale-105"
+            >
+              <h3 className="text-2xl font-semibold mb-4 text-center">{member.name}</h3>
+              <div className="w-64 h-64 bg-gray-200 rounded-lg overflow-hidden shadow-inner">
+                <img
+                  src={member.image}
+                  alt={`${member.name} - ${member.position}`}
+                  className="w-full h-full object-cover"
+                />
+              </div>
+              <p className="mt-4 text-xl text-center font-Rijusans">{member.position || 'TBA'}</p>
+            </div>
+          ))}
+          <div className="md:col-span-3 flex justify-center gap-12">
+            {cabinet.slice(3).map((member, index) => (
               <div
-                key={index}
+                key={index + 3}
                 className="flex flex-col items-center bg-gray-800 rounded-xl p-6 shadow-lg hover:shadow-2xl transition-transform transform hover:scale-105"
               >
                 <h3 className="text-2xl font-semibold mb-4 text-center">{member.name}</h3>
@@ -76,6 +93,7 @@ const ActiveHouse = () => {
               </div>
             ))}
           </div>
+        </div>
         </section>
       </div>
     </div>
