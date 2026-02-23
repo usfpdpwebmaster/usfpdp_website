@@ -289,6 +289,12 @@ const roster = {
         { number: 146, name: 'Michael Nguyen', brotherName: 'Driftking', big: 'Ψ #117 - Harvey Dang (Valorum)' },
       ],
     },
+  'Alpha Eta': {
+      classPicture: '/AH.jpeg',
+      members: [
+        { number: 147, name: 'An Duong', brotherName: 'Klairvoyant', big: 'AE #141 - Brandon Nguyen (Kavalry)' },
+      ],
+    },
   };
 
   const greekAlphabet = [
@@ -320,6 +326,7 @@ const roster = {
     { greek: 'ΑΔ', english: 'Alpha Delta' },
     { greek: 'ΑΕ', english: 'Alpha Epsilon' },
     { greek: 'AZ', english: 'Alpha Zeta' },
+    { greek: 'ΑΗ', english: 'Alpha Eta' },
   ];
   
   const classYears = {
@@ -351,6 +358,7 @@ const roster = {
     'Alpha Delta': 'Fall 2023',
     'Alpha Epsilon': 'Spring 2024',
     'Alpha Zeta': 'Spring 2025',
+    'Alpha Eta': 'Fall 2025',
   };
   
   const getGreekLabel = (index) => {
