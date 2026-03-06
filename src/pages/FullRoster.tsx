@@ -282,7 +282,7 @@ const roster = {
       ],
     },
   'Alpha Zeta': {
-      classPicture: '/AZs.jpg',
+      classPicture: '/AZs v2.jpg',
       members: [
         { number: 144, name: 'Phu Tran', brotherName: 'KIMURA', big: 'AA #126 - Brian Jiang (BLOODBATH)' },
         { number: 145, name: 'Matthew Lim', brotherName: 'PERSES', big: 'AΓ #137 - Dillon Berger (KHEPERA)' },
