@@ -3,7 +3,6 @@ import Modal from 'react-modal';
 import './FullRoster.css';
 import { X, Users, Image as ImageIcon } from 'lucide-react';
 Modal.setAppElement('#root');
-//TODO PICS: Gamma, Delta, AEs
 const roster = {
   Alpha: {
     classPicture: '/alphas.jpg',
@@ -260,7 +259,7 @@ const roster = {
       { number: 132, name: 'Diego Adesso', brotherName: 'INQUISITOR', big: 'Ψ #114 - Jonah Mazzone (SLAYER)' },
       { number: 133, name: 'Harrison Hong', brotherName: 'DEIMOS', big: 'Y #105 - Sean Williams (KHONSU)', little: 'AΘ #151 - David Chanthanasinh (SŌNĐER)' },
       { number: 134, name: 'Jeff Chen', brotherName: 'LASTBREATH', big: 'Ω #120 - Edison Lin (DNR)' },
-      { number: 135, name: 'Andy Zheng', brotherName: 'KENPACHI', big: 'AA #126 - Brian Jiang', little: 'AΘ #150 - Jeffrey Zheng (UNCONQUERED)' },
+      { number: 135, name: 'Andy Zheng', brotherName: 'KENPACHI', big: 'AA #126 - Brian Jiang (BLOODBATH)', little: 'AΘ #150 - Jeffrey Zheng (UNCONQUERED)' },
       { number: 136, name: 'Tuan Kiet (Mike) Phan', brotherName: 'CHOSEN ONE', big: 'P #84 - Brandon Lim (CLASS WAR)' },
       { number: 137, name: 'Dillon Berger', brotherName: 'KHEPERA', big: 'P #82 - Joshua Abrahan (HORUS)', little: 'AZ #145 - Matthew Lim (PERSES)' },
     ],
