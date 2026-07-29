@@ -256,11 +256,11 @@ const roster = {
   'Alpha Gamma': {
     classPicture: '/AGs.jpeg',
     members: [
-      { number: 131, name: 'Julian Legaspi', brotherName: 'Kold-Blooded', big: 'Φ #108 - Anthony Nguyen (Kalamity)' },
+      { number: 131, name: 'Julian Legaspi', brotherName: 'Kold-Blooded', big: 'Φ #108 - Anthony Nguyen (Kalamity)', little: 'AΘ #148 - Son Truong (Krucifixion)'},
       { number: 132, name: 'Diego Adesso', brotherName: 'INQUISITOR', big: 'Ψ #114 - Jonah Mazzone (SLAYER)' },
-      { number: 133, name: 'Harrison Hong', brotherName: 'DEIMOS', big: 'Y #105 - Sean Williams (KHONSU)' },
+      { number: 133, name: 'Harrison Hong', brotherName: 'DEIMOS', big: 'Y #105 - Sean Williams (KHONSU)', little: 'AΘ #151 - David Chanthanasinh (SŌNĐER)' },
       { number: 134, name: 'Jeff Chen', brotherName: 'LASTBREATH', big: 'Ω #120 - Edison Lin (DNR)' },
-      { number: 135, name: 'Andy Zheng', brotherName: 'KENPACHI', big: 'AA #126 - Brian Jiang' },
+      { number: 135, name: 'Andy Zheng', brotherName: 'KENPACHI', big: 'AA #126 - Brian Jiang', little: 'AΘ #150 - Jeffrey Zheng (UNCONQUERED)' },
       { number: 136, name: 'Tuan Kiet (Mike) Phan', brotherName: 'CHOSEN ONE', big: 'P #84 - Brandon Lim (CLASS WAR)' },
       { number: 137, name: 'Dillon Berger', brotherName: 'KHEPERA', big: 'P #82 - Joshua Abrahan (HORUS)', little: 'AZ #145 - Matthew Lim (PERSES)' },
     ],
@@ -268,7 +268,7 @@ const roster = {
   'Alpha Delta': {
     classPicture: '/ADs.png',
     members: [
-      { number: 138, name: 'Aaron Tran', brotherName: 'FLASHBACK', big: 'Ω #119 - Vanny Ho (LEGEND)' },
+      { number: 138, name: 'Aaron Tran', brotherName: 'FLASHBACK', big: 'Ω #119 - Vanny Ho (LEGEND)', little: 'AΘ #149 - Luke Nguyen (EXALTED)' },
       { number: 139, name: 'Thomveebol Phorn', brotherName: 'Kaliburn', big: 'AA #125 - Bill Tran (Kanon)' },
       { number: 140, name: 'Chandee De Jesus', brotherName: 'P.U.R.G.A.T.O.R.Y.', big: 'Φ #106 - Andrew Nguyen (R.E.S.U.R.R.E.C.T.I.O.N.)'},
     ],
@@ -289,10 +289,19 @@ const roster = {
         { number: 146, name: 'Michael Nguyen', brotherName: 'Driftking', big: 'Ψ #117 - Harvey Dang (Valorum)' },
       ],
     },
-  'Alpha Eta': {
+  'Alpha Eta': { 
       classPicture: '/AH.jpeg',
       members: [
         { number: 147, name: 'An Duong', brotherName: 'Klairvoyant', big: 'AE #141 - Brandon Nguyen (Kavalry)' },
+      ],
+    },
+  'Alpha Theta': {
+      classPicture: '/ATs.jpg',
+      members: [
+        { number: 148, name: 'Son Truong', brotherName: 'Krucifixion', big: 'AΓ #131 Julian Legaspi (Kold-Blooded)' },
+        { number: 149, name: 'Luke Nguyen', brotherName: 'EXALTED', big: 'AΔ #138 - Aaron Tran (FLASHBACK)' },
+        { number: 150, name: 'Jeffrey Zheng', brotherName: 'UNCONQUERED', big: 'AΓ #135 - Andy Zheng (KENPACHI)' },
+        { number: 151, name: 'David Chanthanasinh', brotherName: 'SŌNĐER', big: 'AΓ #133 - Harrison Hong (DEIMOS)' },
       ],
     },
   };
@@ -305,7 +314,7 @@ const roster = {
     { greek: 'Ε', english: 'Epsilon' },
     { greek: 'Ζ', english: 'Zeta' },
     { greek: 'Η', english: 'Eta' },
-    { greek: 'Θ', english: 'Theta' },
+    { greek: 'v', english: 'Theta' },
     { greek: 'Ι', english: 'Iota' },
     { greek: 'Κ', english: 'Kappa' },
     { greek: 'Λ', english: 'Lambda' },
@@ -327,6 +336,7 @@ const roster = {
     { greek: 'ΑΕ', english: 'Alpha Epsilon' },
     { greek: 'AZ', english: 'Alpha Zeta' },
     { greek: 'ΑΗ', english: 'Alpha Eta' },
+    { greek: 'ΑΘ', english: 'Alpha Theta' },
   ];
   
   const classYears = {
@@ -359,6 +369,7 @@ const roster = {
     'Alpha Epsilon': 'Spring 2024',
     'Alpha Zeta': 'Spring 2025',
     'Alpha Eta': 'Fall 2025',
+    'Alpha Theta': 'Spring 2026',
   };
   
   const getGreekLabel = (index) => {
