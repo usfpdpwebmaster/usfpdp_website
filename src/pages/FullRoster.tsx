@@ -304,7 +304,7 @@ const roster = {
       ],
     },
   'Alpha Iota': {
-      classPicture: '/AIs.jpg',
+      classPicture: '/AIs.JPEG',
       members: [
         { number: 152, name: 'Tirren Phan', brotherName: 'CLOSURE', big: 'O #74 - Jordan Reyes (DEATH KNIGHT)' },
         { number: 153, name: 'Quang Nguyen', brotherName: 'MACABRE', big: 'UNF Associate Chapter B #7 - Ian Arino (MORTALITY)' },
