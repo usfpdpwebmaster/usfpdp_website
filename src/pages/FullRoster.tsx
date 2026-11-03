@@ -303,6 +303,22 @@ const roster = {
         { number: 151, name: 'David Chanthanasinh', brotherName: 'SŌNĐER', big: 'AΓ #133 - Harrison Hong (DEIMOS)' },
       ],
     },
+  'Alpha Iota': {
+      classPicture: '/AIs.jpg',
+      members: [
+        { number: 152, name: 'Tirren Phan', brotherName: 'CLOSURE', big: 'O #74 - Jordan Reyes (DEATH KNIGHT)' },
+        { number: 153, name: 'Quang Nguyen', brotherName: 'MACABRE', big: 'UNF Associate Chapter B #7 - Ian Arino (MORTALITY)' },
+        { number: 154, name: 'Brandon Nong', brotherName: 'CROWDKILLER', big: 'UNF Associate Chapter B #7 - Ian Arino (MORTALITY)' },
+        { number: 155, name: 'Charlie Ho', brotherName: 'AVENOIR', big: 'AB #127 - Andrew Chau (Godspeed)' },
+        { number: 156, name: 'Johnny Cao', brotherName: 'FINAL HOUR', big: 'Y #99 - Luan Phan (SHINSEIDO)' },
+        { number: 157, name: 'Phong Trong', brotherName: 'EVERMORE', big: 'O #74 - Jordan Reyes (DEATH KNIGHT)' },
+        { number: 158, name: 'Brian Nguyen', brotherName: 'Kassius', big: 'AA #125 - Bill Tran (Kanon)' },
+        { number: 159, name: 'Darwin Pham', brotherName: 'SOLUS', big: 'AE #142 - Shawn Nguyen (SHADOWBORN)' },
+        { number: 160, name: 'Joenn Repollo', brotherName: 'Metanoia', big: 'Ψ #116 - Thomas Pham (Playmaker)' },
+        { number: 161, name: 'Steven Nguyen', brotherName: 'WAR BOUND', big: 'AΓ #136 - Tuan Kiet (Mike) Phan (CHOSEN ONE)' },
+        { number: 162, name: 'Steven Nguyen', brotherName: 'BLOOD OATH', big: 'AΓ #136 - Tuan Kiet (Mike) Phan (CHOSEN ONE)' },
+      ],
+    },
   };
 
   const greekAlphabet = [
@@ -313,7 +329,7 @@ const roster = {
     { greek: 'Ε', english: 'Epsilon' },
     { greek: 'Ζ', english: 'Zeta' },
     { greek: 'Η', english: 'Eta' },
-    { greek: 'v', english: 'Theta' },
+    { greek: 'Θ', english: 'Theta' },
     { greek: 'Ι', english: 'Iota' },
     { greek: 'Κ', english: 'Kappa' },
     { greek: 'Λ', english: 'Lambda' },
@@ -336,6 +352,7 @@ const roster = {
     { greek: 'AZ', english: 'Alpha Zeta' },
     { greek: 'ΑΗ', english: 'Alpha Eta' },
     { greek: 'ΑΘ', english: 'Alpha Theta' },
+    { greek: 'ΑΙ', english: 'Alpha Iota' },
   ];
   
   const classYears = {
@@ -369,6 +386,7 @@ const roster = {
     'Alpha Zeta': 'Spring 2025',
     'Alpha Eta': 'Fall 2025',
     'Alpha Theta': 'Spring 2026',
+    'Alpha Iota': 'Fall 2026',
   };
   
   const getGreekLabel = (index) => {
